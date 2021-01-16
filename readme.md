@@ -1,6 +1,6 @@
-# MLH Localhost <> Capital One
+# MLH
 
-This project contains the starter code for Basic Training: Bot Camp!
+This project contains the starter code for social media api twitter
 
 Your Project
 ------------
